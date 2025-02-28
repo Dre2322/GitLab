@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: #FCF5E5;
+}
+
+blockquote {
+    font-family: Serif, serif;
+    font-style: italic;
+    font-size: 24px;
+    text-align: center;
+}
